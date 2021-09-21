@@ -1,12 +1,12 @@
-# demo1
+# Demo1
 
-- 👋 Hi, I’m @JorgeQomov
-- 👀 I’m interested in front-end development and graphic design
-- 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on front-end development
-- 📫 How to reach me @qomovirus
+### Primer sitio subido a GitHub.
 
-<!---
-JorgeQomov/JorgeQomov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* En esta página muestro algunas de mis ilustraciones.
+* Este boceto muestra la idea principal que tengo para mi sitio, un portfolio de mis ilustraciones y productos.
+---
+<b>Gracias por su visita.</b>
+
+<a href="https://www.instagram.com/qomovirus/" target="new"><img src="https://github.com/JorgeQomov/demo1/blob/ccf979f498f0d70f250fe5eaba67880e9e0760d5/images/logo.png"></a>
+
+Instagram: <a href="https://www.instagram.com/qomovirus/" target="new"><b>@qomovirus</b></a>
