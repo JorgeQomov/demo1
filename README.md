@@ -7,6 +7,6 @@
 ---
 <b>Gracias por su visita.</b>
 
-<a href="https://www.instagram.com/qomovirus/" target="new"><img src="https://github.com/JorgeQomov/demo1/blob/ccf979f498f0d70f250fe5eaba67880e9e0760d5/images/logo.png"></a>
+<a href="https://www.instagram.com/qomovirus/" target="_blank"><img src="https://github.com/JorgeQomov/demo1/blob/ccf979f498f0d70f250fe5eaba67880e9e0760d5/images/logo.png"></a>
 
-Instagram: <a href="https://www.instagram.com/qomovirus/" target="new"><b>@qomovirus</b></a>
+Instagram: <a href="https://www.instagram.com/qomovirus/" target="_blank"><b>@qomovirus</b></a>
