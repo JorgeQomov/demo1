@@ -1,18 +1,70 @@
+body{
+    font-family: 'Roboto';
+}
+
+:root {
+  --verde: #66ff4d;
+}
 .brand-logo img{
     max-height: 65px;
     padding: 5px;
 }
-
 ul li:hover{
-    background: #fff;
+    background-color: var(--verde);
 }
 ul li a:hover{    
     color: #000;
 }
-#banner{
-    background-image: url(../images/banner.png);
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 350px;
+#index-banner{
+    border-top: 5px solid #000;
+}
+.parallax-container{
+    min-height: 95vh;
+    height: auto;
+}
+.parallax-container .section{
+    width: 100%;
+}
+.parallax-container .section img{
+    margin-top: 15vh;
+}
+#index-banner a{
+    background-color: black;
+    border: 5px solid var(--verde);
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    line-height: 0px;
+    transition: 0.25s;
+    margin-top: 15vh;
+    padding: 30px 10%;
+    font-weight: bolder;
+}
+#index-banner a:hover{
+    border: 5px solid black;
+    color: black;
+    background-color: var(--verde);
+}
+#materialbox-overlay{
+    opacity: 0.8!important;
+}
+a.link-insta{
+    background-color: black;
+    border: 5px solid var(--verde);
+    border-radius: 100px;
+    color: white;
+    transition: 0.25s;
+    padding: 15px 3%;
+    
+}
+
+a.link-insta:hover{
+    border: 5px solid black;
+    color: black;
+    background-color: var(--verde);
+    font-weight: bolder;
+}
+
+.page-footer li:hover a{
+    color: #000!important;
 }
