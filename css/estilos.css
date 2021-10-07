@@ -45,8 +45,8 @@ ul li a:hover{
     color: black;
     background-color: var(--verde);
 }
-.parallax .responsive-img{
-    max-width: 110%;
+.parallax img{
+    max-width: 100%;
 }
 #materialbox-overlay{
     opacity: 0.8!important;
